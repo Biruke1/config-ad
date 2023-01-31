@@ -54,7 +54,7 @@ DNS Configguration
 Adding users in Active Directory
 </p>
 <p>
-<img src="https://ethiopia1111.imgur.com/all/" height="80%" width="80%" alt="Client join domain Steps"/>
+<img src="https://i.imgur.com/UH3nkDz.png" height="80%" width="80%" alt="Client join domain Steps"/>
 </p>
 <p>
  Client computer joining Domain
