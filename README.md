@@ -7,7 +7,7 @@ Configuring On-premises Active Directory within Azure VMs]
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Various Command-Line Tools
+- Various Microsoft configuration
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 
 
@@ -18,13 +18,14 @@ Configuring On-premises Active Directory within Azure VMs]
 
 <h2>High-Level Steps</h2>
 
-- Step 1 Resource /Network Interface 
+- Step 1 Resource group/Network Interface 
 - Step 2 Creation of Active Directory
-- Step 3
-- Step 4
+- Step 3 DNS serivce
+- Step 4 Client Integration
 
 <h2>Actions and Observations</h2>
 
+<h1>Static IP</h1>
 <p>
 <img src="https://i.imgur.com/BJnw61g.png" height="80%" width="80%" alt="Static IP configuration Steps"/>
 </p>
