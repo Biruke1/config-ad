@@ -33,6 +33,7 @@ Configuring On-premises Active Directory within Azure VMs]
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+<h1>Active Directory and Domain Service as a Role</h1>
 
 <p>
 <img src="https://i.imgur.com/TmGNTPE.png" height="80%" width="80%" alt="Adding Active Directory Feature Steps"/>
@@ -42,12 +43,15 @@ Active Directory feature can be added from Server Manager,
 </p>
 <br />
 
+<h1>Fully qualified Domain naming</h1>
 <p>
 <img src="https://i.imgur.com/GEIyFkb.png" height="80%" width="80%" alt="DNS Configuration Steps"/>
 </p>
 <p>
 DNS Configguration
 </p>
+<h1>Adding users and membership</h1>
+
 <p>
 <img src="https://i.imgur.com/WQS0gJJ.png" height="80%" width="80%" alt="Adding users Steps"/>
 </p>
