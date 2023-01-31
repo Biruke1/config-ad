@@ -9,17 +9,17 @@ Configuring On-premises Active Directory within Azure VMs]
 - Remote Desktop
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows 2016 DataCenter (21H2)
+- Windows 10 Client
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
+- Step 1 Resource /Network Interface 
+- Step 2 Creation of Active Directory
 - Step 3
 - Step 4
 
