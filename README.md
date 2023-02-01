@@ -50,16 +50,17 @@ After installing Active Directory, add features from Server Manager.
 </p>
 <p>
 DNS Configuration
-</p>
+</p>Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain 
+
 <h1>Adding users and membership</h1>
 
-<p>
+<p> 
 <img src="https://i.imgur.com/WQS0gJJ.png" height="80%" width="80%" alt="Adding users Steps"/>
 </p>
 <p>
-Adding users in Active Directory
+
 </p>
-<p>
+<p>Add Admins and users in Active Directory with respective privilages and restictions.
 <img src="https://i.imgur.com/UH3nkDz.png" height="80%" width="80%" alt="Client join domain Steps"/>
 </p>
 <p>
