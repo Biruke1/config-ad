@@ -54,9 +54,8 @@ DNS Configuration
 
 
 </p>
-<h1>  Create Active Directory
-
-<img scr="https://i.imagur.com/WQSOgJJ.png" height="8o%" width="80%" alt= "Creating Active Directory"/>  
+<h1>  Create Active Directory[
+](https://i.imgur.com/WQS0gJJ.png) 
 </p>
 
  Add Admins and users in Active Directory with respective privilages and restictions
