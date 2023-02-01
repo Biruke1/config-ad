@@ -40,7 +40,7 @@ After creating a Domain Controller (Server) and Windows 10(Client's) VM in azure
 <img src="https://i.imgur.com/TmGNTPE.png" height="80%" width="80%" alt="Adding Active Directory Feature Steps"/>
 </p>
 <p>
-Active Directory feature can be added from Server Manager, 
+After installing Active Directory, add features from Server Manager. 
 </p>
 <br />
 
