@@ -39,8 +39,8 @@ After creating a Domain Controller (Server) and Windows 10(Client's) VM in azure
 <p>
 <img src="https://i.imgur.com/TmGNTPE.png" height="80%" width="80%" alt="Adding Active Directory Feature Steps"/>
 </p>
-<p>
-After installing Active Directory, add features from Server Manager. 
+<p>[
+](https://i.imgur.com/WQS0gJJ.png) After installing Active Directory, add features from Server Manager. 
 </p>
 <br />
 
@@ -52,18 +52,20 @@ After installing Active Directory, add features from Server Manager.
 DNS Configuration
 </p>Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain 
 
-<h1>Adding users and membership</h1>
 
-<p> 
-<img src="https://i.imgur.com/WQS0gJJ.png" height="80%" width="80%" alt="Adding users Steps"/>
+</p>
+<h1>  Create Active Directory
+
+<img scr="https://i.imagur.com/WQSOgJJ.png" height="8o%" width="80%" alt= "Creating Active Directory"/>  
+</p>
+
+ Add Admins and users in Active Directory with respective privilages and restictions
+
 </p>
 <p>
-
-</p>
-<p>Add Admins and users in Active Directory with respective privilages and restictions.
 <img src="https://i.imgur.com/UH3nkDz.png" height="80%" width="80%" alt="Client join domain Steps"/>
 </p>
 <p>
- Client computer joining Domain
+ Client computer joining Domain.
 </p>
 <br />
