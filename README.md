@@ -49,7 +49,7 @@ Active Directory feature can be added from Server Manager,
 <img src="https://i.imgur.com/GEIyFkb.png" height="80%" width="80%" alt="DNS Configuration Steps"/>
 </p>
 <p>
-DNS Configguration
+DNS Configuration
 </p>
 <h1>Adding users and membership</h1>
 
