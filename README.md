@@ -1,5 +1,5 @@
 
-Configuring On-premises Active Directory within Azure VMs
+Configuring  Active Directory within Azure VMs
 <h2>Creating Active Directory</h2>
 
 
@@ -14,7 +14,7 @@ Configuring On-premises Active Directory within Azure VMs
 <h2>Operating Systems Used </h2>
 
 - Windows 2022 (Server)
-- Windows 10 Client
+- Windows 10 (Client)
 
 <h2>High-Level Steps</h2>
 
