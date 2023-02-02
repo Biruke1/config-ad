@@ -56,7 +56,7 @@ DNS Configuration
 </p>
 <h1>  Create Active Directory</h1> 
 </p>
-<img src="https://i.imgur.com/WQSOgjj.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/WQS0gJJ.png" height="80%" width="80%" alt="Active Directory Steps"/>
 </p>
  Add Admins and users in Active Directory with respective privilages and restictions
 
