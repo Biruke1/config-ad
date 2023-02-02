@@ -1,5 +1,5 @@
 
-Configuring On-premises Active Directory within Azure VMs]
+Configuring On-premises Active Directory within Azure VMs
 <h2>Creating Active Directory</h2>
 
 
@@ -65,6 +65,6 @@ DNS Configuration
 <img src="https://i.imgur.com/UH3nkDz.png" height="80%" width="80%" alt="Client join domain Steps"/>
 </p>
 <p>
- Client computer joining Domain.
+Make sure Client's computer joins the Domain server and can log in with the new credential.
 </p>
 <br />
