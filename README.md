@@ -13,7 +13,7 @@ Configuring On-premises Active Directory within Azure VMs
 
 <h2>Operating Systems Used </h2>
 
-- Windows 2016 DataCenter (Server)
+- Windows 2022 (Server)
 - Windows 10 Client
 
 <h2>High-Level Steps</h2>
