@@ -1,4 +1,4 @@
-# config-ad
+
 Configuring On-premises Active Directory within Azure VMs]
 <h2>Creating Active Directory</h2>
 
@@ -8,7 +8,7 @@ Configuring On-premises Active Directory within Azure VMs]
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Microsoft configuration
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Various Network Protocols  (DNS, HTTP/S, ICMP)
 
 
 <h2>Operating Systems Used </h2>
