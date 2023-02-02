@@ -13,7 +13,7 @@ Configuring On-premises Active Directory within Azure VMs
 
 <h2>Operating Systems Used </h2>
 
-- Windows 2016 DataCenter (21H2)
+- Windows 2016 DataCenter (Server)
 - Windows 10 Client
 
 <h2>High-Level Steps</h2>
@@ -50,7 +50,7 @@ After creating a Domain Controller (Server) and Windows 10(Client's) VM in azure
 </p>
 <p>
 DNS Configuration
-</p>Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain 
+</p>Login to the Domain Controller (Remote Desktop) and verify Client shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain 
 
 
 </p>
